@@ -1,0 +1,20 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/shahilas/ros2_ws/install/robot_math/lib/python3.10/site-packages",
+        "/home/shahilas/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages",
+        "/home/shahilas/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/shahilas/ros2_ws/install/hospital_robot_spawner/lib/python3.10/site-packages",
+        "/home/shahilas/shahil_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/shahilas/ros2_ws/install/robot_math/lib/python3.10/site-packages",
+        "/home/shahilas/ros2_ws/install/navigation_tb3/local/lib/python3.10/dist-packages",
+        "/home/shahilas/ros2_ws/install/my_py_pkg/lib/python3.10/site-packages",
+        "/home/shahilas/ros2_ws/install/hospital_robot_spawner/lib/python3.10/site-packages",
+        "/home/shahilas/shahil_ws/install/pymoveit2/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
